@@ -1,0 +1,30 @@
+.chatI{
+	border-radius: 25px;
+	background: lime;
+	padding: 5px;
+}
+
+.chatU{
+	border-radius: 25px;
+	background: lightgray;
+	padding: 5px;
+}
+
+.icon {
+	color: green;
+}
+.profile {
+	color: white;
+}
+
+.image {
+	height: 40vh;
+	width: 20vw;
+	border-radius: 50%;
+}
+
+.dp {
+	height: 10vh;
+	width: 6vw;
+
+}
